@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 //   TODO: SAVE THE TASKS AND UREGENCY IN A FILE
 
-
 public class Main {
     public static void main(String[] args){
         //  FIRST STRING IS UREGENCY
