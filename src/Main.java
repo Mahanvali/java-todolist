@@ -3,10 +3,13 @@ package todolist.src;
 import java.util.HashMap;
 import java.util.Scanner;
 
+//   TODO: SAVE THE TASKS AND UREGENCY IN A FILE
+
+
 public class Main {
     public static void main(String[] args){
         //  FIRST STRING IS UREGENCY
-        //  SECOND IS THE TODO
+        //  SECOND IS THE TASK
         HashMap<String, String> todoHashMap = new HashMap<String, String>();
         Scanner scannerObj = new Scanner(System.in);
         while (true) {
